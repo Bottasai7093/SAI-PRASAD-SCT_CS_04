@@ -1,6 +1,3 @@
-SCT_CS_04
-
-GitHub README
 🔑 Keylogger Script
 A Python-based Keylogger that captures keystrokes in real-time and logs them into a file for analysis. This tool is a simple yet effective way to learn about keylogging techniques and the use of event-driven programming in Python.
 
@@ -24,7 +21,7 @@ Steps
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/SUHAS-HAR1SH/SCT_CS_04.git  
+git clone  https://github.com/Bottasai7093/SAI-PRASAD-SCT_CS_04.git
 cd keylogger  
 Run the program:
 bash
